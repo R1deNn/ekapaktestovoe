@@ -1,7 +1,7 @@
 # Тестовое задание: API сервиса управления заказами
 
 **Время:** 3–4 часа  
-**Стек:** PHP 8.4+, Laravel 12, MySQL или PostgreSQL, Redis, Docker
+**Стек:** PHP 8.4+, Laravel 12+, MySQL или PostgreSQL, Redis, Docker
 
 ---
 
